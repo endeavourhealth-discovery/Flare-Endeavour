@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-122672072-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-122672072-2');
+	</script>
+
+	
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <link rel="stylesheet" href="Resources/Stylesheets/font-awesome-4.7.0/css/font-awesome.min.css"/>
+    </head>
+    <body>
+        <div>
+            <div id="contentBody">
+                <div>
+                    <div class="sideContent">
+                        <div>
+                            <MadCap:topicToolbarProxy />
+                        </div>
+                        <MadCap:menuProxy style="mc-context-sensitive: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
+                    </div>
+                    <MadCap:bodyProxy />
+					<br/>
+					<br/>
+                </div>
+            </div>
+        </div>
+        <div class="footer">2018 © Endeavour Health Charitable Trust | Registered Charity No. 1156863. All rights reserved.<br/>
+		</div>
+    </body>
+</html>

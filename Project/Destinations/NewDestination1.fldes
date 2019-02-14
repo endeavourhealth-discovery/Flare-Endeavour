@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\Jo\Documents\My Projects\Git\website-endeavour"
+  Port=""
+  ViewUrl="http://www.ergosoft.co.uk/endeavour/Content/Home.htm"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Users/Jo/Documents/My Projects/Git/website-endeavour/.git"
+  DatabaseRoot="file:///C:/Users/Jo/Documents/My Projects/Git/website-endeavour"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>
